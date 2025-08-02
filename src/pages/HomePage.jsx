@@ -1,7 +1,8 @@
 import React from "react";
+import Chart from "../components/Chart";
 
 const HomePage = () => {
-  return <div className="">HomePage</div>;
+  return <Chart />;
 };
 
 export default HomePage;
